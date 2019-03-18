@@ -5,7 +5,7 @@ if (amount>50){
     console.log("The tax is added");
 }
 else{
-    console.log("There is not tax");
+    console.log("There is no tax");
 }
 for (var i=0;i<=9; i++)
 {console.log(i);}
