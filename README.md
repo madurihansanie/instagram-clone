@@ -1,6 +1,6 @@
 # Instagram-clone
 
-Repo for Learn IT girl project
+Repo for Learn IT, Girl project
 
 ## What is Learn IT, Girl Program? 
 
